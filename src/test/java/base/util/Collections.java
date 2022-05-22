@@ -16,5 +16,6 @@ public class Collections {
         integerList.add(2);
 
         System.out.println(integerList.stream().limit(2).count());
+
     }
 }
